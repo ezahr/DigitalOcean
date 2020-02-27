@@ -7,6 +7,9 @@ Whether you are still trying to understand the excitement around Kubernetes or y
 
 https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers
 
+[[https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers#1.IntroductoryTopics| Kubernetes for Full-Stack Developers, a self-guided course. ]]
+
+
 ## How To Use Cron to Automate Tasks on Ubuntu 18.04.
 If maintaining your server feels tedious, cron will help you minimize repetitive manual tasks. Learn more by reading our tutorial: How To Use Cron to Automate Tasks on Ubuntu 18.04.
 
